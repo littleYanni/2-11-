@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.3.2">
+  <diagram name="Страница-1" id="qE5OEZ-eGdo2Oda6xZfJ">
+    <mxGraphModel dx="1018" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0m717U05XFDRq593qKPp-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;fontStyle=1" value="MVP -- Релиз 1.0 (бэклог)" vertex="1">
+          <mxGeometry height="30" width="260" x="290" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="0m717U05XFDRq593qKPp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#000000;" value="1. Осознание потребности" vertex="1">
+          <mxGeometry height="40" width="160" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m717U05XFDRq593qKPp-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="US-01: Ищу книгу по технологии" vertex="1">
+          <mxGeometry height="40" width="160" x="40" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0m717U05XFDRq593qKPp-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#000000;" value="2. Регистрация / Вход" vertex="1">
+          <mxGeometry height="40" width="140" x="220" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m717U05XFDRq593qKPp-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="US-02: Захожу через SSO" vertex="1">
+          <mxGeometry height="40" width="140" x="220" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0m717U05XFDRq593qKPp-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#000000;" value="3. Поиск и выбор ресурса" vertex="1">
+          <mxGeometry height="40" width="160" x="380" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m717U05XFDRq593qKPp-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="US-03: Применяю фильтры" vertex="1">
+          <mxGeometry height="40" width="160" x="380" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0m717U05XFDRq593qKPp-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#000000;" value="4. Получение доступа" vertex="1">
+          <mxGeometry height="40" width="140" x="560" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m717U05XFDRq593qKPp-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="US-04: Запрашиваю доступ" vertex="1">
+          <mxGeometry height="40" width="140" x="560" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0m717U05XFDRq593qKPp-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#90EE90;strokeColor=#000000;" value="5. Потребление контента" vertex="1">
+          <mxGeometry height="40" width="160" x="720" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m717U05XFDRq593qKPp-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" value="US-05: Читаю и сохраняю прогресс" vertex="1">
+          <mxGeometry height="40" width="160" x="720" y="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
